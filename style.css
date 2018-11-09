@@ -1,0 +1,16 @@
+h1 { 
+    color: 228b22;
+    margin/top: 200px;
+    font-family: Garamond, "Times New Roman", serif;
+}
+body{
+    background-color: gainsboro;
+    margin/top: 50 px;
+    margin/bottom: 50 px;
+    padding: 50 px;
+    font-family: Garamond, "Times New Roman", serif;
+}
+P{
+    color: black;
+    font-family: Garamond, "Times New Roman", serif;
+}
